@@ -1,0 +1,6 @@
+x=(2)
+y=(4.0)
+z=("moni")
+print(type(x))
+print(type(y))
+print(type(z))
